@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1085454237498",
+    "firebase_url": "https://eshopapp-2b374.firebaseio.com",
+    "project_id": "eshopapp-2b374",
+    "storage_bucket": "eshopapp-2b374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085454237498:android:2c0770c3236d4acfcfda03",
+        "android_client_info": {
+          "package_name": "com.example.coffeeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085454237498-piei1dq8h96vgq752d9ehlap6cne1snk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHh7OHFeCMnVgrkeJyIhgsKJsZ9UViU48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085454237498-piei1dq8h96vgq752d9ehlap6cne1snk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085454237498:android:27463a2b739e4a88cfda03",
+        "android_client_info": {
+          "package_name": "com.example.receipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085454237498-piei1dq8h96vgq752d9ehlap6cne1snk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHh7OHFeCMnVgrkeJyIhgsKJsZ9UViU48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085454237498-piei1dq8h96vgq752d9ehlap6cne1snk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085454237498:android:46808fac5e9b75a7cfda03",
+        "android_client_info": {
+          "package_name": "com.sarah.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085454237498-piei1dq8h96vgq752d9ehlap6cne1snk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHh7OHFeCMnVgrkeJyIhgsKJsZ9UViU48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085454237498-piei1dq8h96vgq752d9ehlap6cne1snk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
