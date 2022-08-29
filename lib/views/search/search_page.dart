@@ -6,13 +6,13 @@ import 'package:receipeapp/main_layout/cubit/app_cubit.dart';
 import 'package:receipeapp/models/mealModel/area_model.dart';
 import 'package:receipeapp/shared/network/cache_helper.dart';
 import 'package:receipeapp/src/modules/home/widgets/long_food_card.dart';
-import 'package:receipeapp/src/modules/search/widgets/search_bar.dart';
-import 'package:receipeapp/src/widgets/wave_transition_animation.dart';
+import 'package:receipeapp/shared/components/wave_transition_animation.dart';
 import 'package:receipeapp/views/Details/details_screen.dart';
+import 'package:receipeapp/views/search/widgets/search_bar.dart';
 
 import '../../../main_layout/cubit/app_state.dart';
 import '../../../shared/components/compoents.dart';
-import '../../core/colors.dart';
+import '../../../shared/style/theme/colors.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({Key? key}) : super(key: key);

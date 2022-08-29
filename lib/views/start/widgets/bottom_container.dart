@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 import 'package:receipeapp/views/Authentication/login/login_screen.dart';
 import 'package:receipeapp/views/home/home_page.dart';
 

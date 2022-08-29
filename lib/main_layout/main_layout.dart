@@ -4,7 +4,7 @@ import 'package:flashy_tab_bar2/flashy_tab_bar2.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:receipeapp/main_layout/cubit/app_cubit.dart';
 import 'package:receipeapp/main_layout/cubit/app_state.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 import 'package:receipeapp/views/home/home_page.dart';
 import 'package:receipeapp/views/Categories/categories.dart';
 import 'package:receipeapp/views/Profile/profile_screen.dart';

@@ -15,7 +15,7 @@ import 'package:receipeapp/views/todaysMeal/cubit/mealStates.dart';
 import '../../main_layout/cubit/app_cubit.dart';
 import '../../models/todayMealModel/todaysMealModel.dart';
 import '../../shared/components/constant.dart';
-import '../../src/core/colors.dart';
+import '../../shared/style/theme/colors.dart';
 import 'cubit/mealCubit.dart';
 
 class TodayMealScreen extends StatelessWidget {

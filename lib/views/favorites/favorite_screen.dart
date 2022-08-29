@@ -13,7 +13,7 @@ import 'package:receipeapp/views/home/home_page.dart';
 
 import '../../main_layout/cubit/app_cubit.dart';
 import '../../shared/components/constant.dart';
-import '../../src/core/colors.dart';
+import '../../shared/style/theme/colors.dart';
 
 class FavoriteScreen extends StatelessWidget {
   const FavoriteScreen({Key? key}) : super(key: key);

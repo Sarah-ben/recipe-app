@@ -10,8 +10,8 @@ import 'package:receipeapp/shared/components/compoents.dart';
 import 'package:receipeapp/views/Details/details_screen.dart';
 import 'package:receipeapp/views/favorites/cubit/favorite_cubit.dart';
 
-import '../../../../models/mealModel/area_model.dart';
-import '../../../core/colors.dart';
+import '../../models/mealModel/area_model.dart';
+import '../../shared/style/theme/colors.dart';
 
 class FoodList extends StatefulWidget {
   @override

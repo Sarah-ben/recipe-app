@@ -6,7 +6,7 @@ import 'package:receipeapp/shared/components/constant.dart';
 import 'package:receipeapp/shared/network/cache_helper.dart';
 import 'package:receipeapp/shared/network/dio_helper.dart';
 import 'package:receipeapp/shared/style/theme/theme.dart';
-import 'package:receipeapp/src/modules/home/widgets/recomended_food_list.dart';
+import 'package:receipeapp/views/home/recomended_food_list.dart';
 import 'package:receipeapp/views/add_recipe/add_recipe.dart';
 import 'package:receipeapp/views/add_recipe/cubit/add_recipe_cubit.dart';
 import 'package:receipeapp/views/add_recipe/my_recipes.dart';

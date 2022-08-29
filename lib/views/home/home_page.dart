@@ -1,18 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:receipeapp/main_layout/cubit/app_cubit.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 import 'package:receipeapp/src/modules/home/widgets/breakfast_heading.dart';
 import 'package:receipeapp/src/modules/home/widgets/breakfast_list.dart';
 import 'package:receipeapp/src/modules/home/widgets/food_card.dart';
-import 'package:receipeapp/src/modules/home/widgets/heading.dart';
-import 'package:receipeapp/src/modules/home/widgets/home_app_bar.dart';
+import 'package:receipeapp/views/home/heading.dart';
+import 'package:receipeapp/views/home/home_app_bar.dart';
 import 'package:receipeapp/src/modules/home/widgets/long_food_card.dart';
-import 'package:receipeapp/src/modules/home/widgets/recomended_food_list.dart';
-import 'package:receipeapp/src/modules/search/search_page.dart';
-import 'package:receipeapp/src/widgets/custom_divider.dart';
-import 'package:receipeapp/src/widgets/line.dart';
-import 'package:receipeapp/src/widgets/wave_transition_animation.dart';
+import 'package:receipeapp/views/home/recomended_food_list.dart';
+import 'package:receipeapp/shared/components/custom_divider.dart';
+import 'package:receipeapp/shared/components/line.dart';
+import 'package:receipeapp/shared/components/wave_transition_animation.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import '../../main_layout/cubit/app_state.dart';

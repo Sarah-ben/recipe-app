@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 
 ThemeData darkTheme=ThemeData(
     scaffoldBackgroundColor:Colors.black,

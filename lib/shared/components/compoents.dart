@@ -10,7 +10,7 @@ import 'package:receipeapp/views/home/home_page.dart';
 import 'package:translator/translator.dart';
 
 import '../../main_layout/cubit/app_cubit.dart';
-import '../../src/core/colors.dart';
+import '../style/theme/colors.dart';
 import '../../views/favorites/cubit/favorite_cubit.dart';
 import 'constant.dart';
 

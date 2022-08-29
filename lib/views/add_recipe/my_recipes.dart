@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:receipeapp/models/recipeModel/recipe_model.dart';
 import 'package:receipeapp/shared/components/compoents.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 import 'package:receipeapp/views/add_recipe/add_recipe.dart';
 import 'package:receipeapp/views/add_recipe/cubit/add_recipe_cubit.dart';
 import 'package:receipeapp/views/add_recipe/cubit/add_recipe_states.dart';

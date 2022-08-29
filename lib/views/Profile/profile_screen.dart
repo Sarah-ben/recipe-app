@@ -8,7 +8,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:receipeapp/main_layout/cubit/app_state.dart';
 import 'package:receipeapp/shared/components/compoents.dart';
 import 'package:receipeapp/shared/network/cache_helper.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 import 'package:receipeapp/views/Authentication/cubit/auth_cubit.dart';
 import 'package:receipeapp/views/Authentication/cubit/auth_states.dart';
 import 'package:receipeapp/views/Authentication/login/login_screen.dart';

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:receipeapp/src/core/colors.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 
 import '../../../../main_layout/cubit/app_cubit.dart';
 

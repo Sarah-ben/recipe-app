@@ -7,7 +7,7 @@ import 'package:receipeapp/shared/components/compoents.dart';
 import '../../main_layout/cubit/app_cubit.dart';
 import '../../main_layout/cubit/app_state.dart';
 import '../../models/categoriesModel/category_model.dart';
-import '../../src/core/colors.dart';
+import '../../shared/style/theme/colors.dart';
 import 'categories_products_screen.dart';
 
 class CategoriesScreen extends StatelessWidget {

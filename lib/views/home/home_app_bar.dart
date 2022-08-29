@@ -2,16 +2,16 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:receipeapp/main_layout/cubit/app_cubit.dart';
 import 'package:receipeapp/shared/network/cache_helper.dart';
-import 'package:receipeapp/src/core/colors.dart';
-import 'package:receipeapp/src/modules/search/search_page.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:receipeapp/views/favorites/cubit/favorite_cubit.dart';
 import 'package:receipeapp/views/favorites/favorite_screen.dart';
 import 'package:receipeapp/views/start/start_page.dart';
 
-import '../../../../shared/components/compoents.dart';
-import '../../../../shared/components/constant.dart';
-import '../../../../views/Authentication/cubit/auth_cubit.dart';
+import '../../shared/components/compoents.dart';
+import '../../shared/components/constant.dart';
+import '../Authentication/cubit/auth_cubit.dart';
+import '../search/search_page.dart';
 
 class HomeAppBar extends StatelessWidget {
 

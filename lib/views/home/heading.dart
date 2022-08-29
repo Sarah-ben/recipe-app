@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:receipeapp/src/core/colors.dart';
-import 'package:receipeapp/src/widgets/line.dart';
+import 'package:receipeapp/shared/style/theme/colors.dart';
+import 'package:receipeapp/shared/components/line.dart';
 import 'package:google_fonts/google_fonts.dart';
+
+import '../../shared/style/theme/colors.dart';
 
 class Heading extends StatelessWidget {
   const Heading({Key? key}) : super(key: key);
