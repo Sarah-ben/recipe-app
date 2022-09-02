@@ -1,16 +1,33 @@
 # receipeapp
 
-A new Flutter project.
+ - Frontend: Flutter (Dart language)
 
-## Getting Started
+ - Backend: API + Firebase
 
-This project is a starting point for a Flutter application.
+ - State management: BloC
 
-A few resources to get you started if this is your first Flutter project:
+ - HTTP client : Dio
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - local storage: shared preferences
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Main features:
+
+- auth with email/password or gmail account (login/ register/ retrieve pasword/ update/ logout/ delete/ )
+
+- get recipes for many countries ( from API) by country and category
+
+- add new recipe (Firebase)
+
+- rate recipe
+
+- add recipe to Favorites
+
+- add recipe to Today's meal
+
+- watch recipe video
+
+To see all pages separately you can find them in screenshots file
+
+![](screenshots/myimg.jpeg)
+
+
